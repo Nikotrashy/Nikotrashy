@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @Nikotrashy.
+- 🔊 My English is not very good, but I try, bear with me if you don't understand something, please.
+- 👀 I'm interested in learning about programming and becoming an exceptional programmer.
+- 🌱 I'm currently learning the Java language at university and other languages on my own (Python, JavaScript, HTML...).
+- 💞️ I'm not really looking to collaborate on something specific, but as long as I can do it and learn from it, I'll gladly do it.
+- 📫 Until I really understand how to program, I won't put how to contact me... other than my own GitHub profile or my reddit profile https://www.reddit.com/user/Nikotrashy.
